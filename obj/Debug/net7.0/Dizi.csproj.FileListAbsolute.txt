@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Dizi\bin\Debug\net7.0\Dizi.exe
+C:\Users\lenovo\Desktop\Dizi\bin\Debug\net7.0\Dizi.deps.json
+C:\Users\lenovo\Desktop\Dizi\bin\Debug\net7.0\Dizi.runtimeconfig.json
+C:\Users\lenovo\Desktop\Dizi\bin\Debug\net7.0\Dizi.dll
+C:\Users\lenovo\Desktop\Dizi\bin\Debug\net7.0\Dizi.pdb
+C:\Users\lenovo\Desktop\Dizi\obj\Debug\net7.0\Dizi.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Dizi\obj\Debug\net7.0\Dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Dizi\obj\Debug\net7.0\Dizi.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Dizi\obj\Debug\net7.0\Dizi.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Dizi\obj\Debug\net7.0\Dizi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Dizi\obj\Debug\net7.0\Dizi.dll
+C:\Users\lenovo\Desktop\Dizi\obj\Debug\net7.0\refint\Dizi.dll
+C:\Users\lenovo\Desktop\Dizi\obj\Debug\net7.0\Dizi.pdb
+C:\Users\lenovo\Desktop\Dizi\obj\Debug\net7.0\Dizi.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Dizi\obj\Debug\net7.0\ref\Dizi.dll
